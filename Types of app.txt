@@ -1,0 +1,14 @@
+Types of application:
+1)Standalone Application (or) concole app (or) desktop app.--> we can't automate
+2)Web Application---> web site application---> we can automate using selenium
+3)Mobile Application.--->we can use the app through moblie-->we can automate using appum.
+4)Enterprice Application.--->money transaction--> we can automate
+
+Types of Domain:
+1)insurance domain
+2)Medical domain
+3)Banking domain
+4)E-commerce
+5)Communication
+
+UI-->user interface.
