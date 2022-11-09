@@ -1,1 +1,1 @@
-ryr
+ryr add some command
